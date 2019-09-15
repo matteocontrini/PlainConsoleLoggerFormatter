@@ -7,7 +7,7 @@
     <Description>A simple, single-line console logger for ASP.NET Core 2.x.</Description>
     <RepositoryUrl>https://github.com/matteocontrini/PlainConsoleLogger</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <PackageTags>logger;logging;console</PackageTags>
+    <PackageTags>logger;logging;console;aspnetcore</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
