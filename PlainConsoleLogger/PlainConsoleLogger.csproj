@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <VersionPrefix>2.2.0</VersionPrefix>
+    <VersionSuffix>beta</VersionSuffix>
+    <Description>A simple, single-line console logger for ASP.NET Core 2.x.</Description>
+    <RepositoryUrl>https://github.com/matteocontrini/PlainConsoleLogger</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>logger;logging;console</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
