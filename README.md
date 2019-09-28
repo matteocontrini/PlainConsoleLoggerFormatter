@@ -1,6 +1,6 @@
 # PlainConsoleLogger [![NuGet](https://img.shields.io/nuget/v/PlainConsoleLogger?color=success)](https://www.nuget.org/packages/PlainConsoleLogger) [![License](https://img.shields.io/github/license/matteocontrini/PlainConsoleLogger?color=success)](https://github.com/matteocontrini/PlainConsoleLogger/blob/master/LICENSE)
 
-A basic alternative console logger for ASP.NET Core 2.x.
+A basic alternative console logger for ASP.NET Core 3.0.
  
 The main difference from the Microsoft's console logger is the log format:
 
