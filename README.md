@@ -26,6 +26,7 @@ The date is in UTC ISO 8601 format.
 ```csharp
 private static void ConfigureLogging(HostBuilderContext hostContext, ILoggingBuilder logging)
 {
+    logging.ClearProviders();
     logging.AddPlainConsole();
 }
 ```
